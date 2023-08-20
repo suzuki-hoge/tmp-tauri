@@ -3105,7 +3105,7 @@ dependencies = [
 
 [[package]]
 name = "win-win-map"
-version = "0.0.4"
+version = "0.0.5"
 dependencies = [
  "anyhow",
  "crossbeam",
@@ -3120,7 +3120,7 @@ dependencies = [
  "tauri",
  "tauri-build",
  "tokio",
- "windows 0.44.0",
+ "windows 0.39.0",
 ]
 
 [[package]]
